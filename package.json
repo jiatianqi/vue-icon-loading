@@ -1,6 +1,6 @@
 {
   "name": "vue-icon-loading",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Custom loading",
   "main": "index.js",
   "scripts": {
