@@ -1,5 +1,5 @@
 # vue-icon-loading
-- only API, easy use.
+- only one API, easy use.
 
 ## Getting Started
 ### Install
